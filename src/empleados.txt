@@ -1,0 +1,9 @@
+Francisco,Mariani,12-04-1979,82236
+Roberto,Alberto,01-01-1991,47558
+Mario,Fracassi,26-02-1984,19491
+Humberto,Maidana,09-11-1992,125548
+Lautaro,Martino,26-01-1985,65488
+Santiago,Chad,29-09-1979,254420
+Sol,Lefort,19-03-1999,91159
+Nicole,Medina,12-05-1995,76564
+Maria,Bilbao,22-04-1993,39535

@@ -16,13 +16,13 @@ public class Controlador {
     }
 
     public static List<Empleado> empleadosEdad(List<Empleado> empleados) {
-        List<Empleado> empleadosEdadMap = new ArrayList<>();
+        List<Empleado> empleadosEdad = new ArrayList<>();
         empleados.sort(Comparator.comparing(Empleado::getEdad));
 
-        empleadosEdadMap.add(empleados.get(0));
-        empleadosEdadMap.add(empleados.get(empleados.size() - 1));
+        empleadosEdad.add(empleados.get(0));
+        empleadosEdad.add(empleados.get(empleados.size() - 1));
 
-        return empleadosEdadMap;
+        return empleadosEdad;
     }
 
     public static List<Empleado> listaEmpleadosPorInicial(List<Empleado> empleados, String letra) {
